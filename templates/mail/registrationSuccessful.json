@@ -1,0 +1,4 @@
+{
+ "Subject" : "Admission approved",
+ "Content" : "Dear %NAME%, Congratulations! \n Your Admission at %INSTITUTION% has been approved for the %STUDY%!. \n Please log in to https://portal.edenuniversity.net with your student number and password to download your admission letter.  \n\n Kind Regards, \n %INSTITUTION%"
+}

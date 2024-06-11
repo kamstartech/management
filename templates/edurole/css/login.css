@@ -1,0 +1,179 @@
+@charset "utf-8";
+.bodywrapper{
+	width: 100%;
+}
+.bodycontainer { 
+	width: 100%;
+	background-color: #FFF;
+	min-height: 500px;
+	border:solid 2px #FFF;
+	padding-bottom: 0px !important;
+	border: 0px;
+	border-bottom: 30px solid #03bcf9;
+}
+.loginpadding {
+	margin-top: 20px;
+	border-top: 2px solid #FFF;
+}
+.floater {
+	position: relative;
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.headercenter {
+	padding-left: 30px;
+	width: 100%;
+	background-color: #fff;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 10px;
+	position: relative;
+	width: 670px;
+	height: 125px;
+	border-bottom: 0px none !important;
+}
+.loginheader {
+	background-image: url("../images/eden.jpg");
+	background-position: center center;
+	style: block;
+	background-color: #333;
+	background-size: 100%;
+	background-position: left top;
+	height: 520px; 
+	width: 100%;
+	min-width: 1000px;
+        border-top: 30px solid #03bcf9;
+}
+.hl {
+	background-repeat: no-repeat;
+	background-position: right;
+	width: 50%;
+	padding-right: 20px;
+	float: left;
+	margin-top: 60px;
+}
+.hr {
+	background-repeat: no-repeat;
+	background-position: left;
+	width: 50%;
+	float: left;
+	margin-top: 60px;
+}
+h2 {
+	margin-bottom: 5px;
+}
+.trdd{
+	width: 100%;
+	background-color: #1da5d9;
+	display: inline-block;
+	padding: 6px 12px;
+	color: #FFF;
+	margin-bottom: 0;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 1.428571429;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: middle;
+	cursor: pointer;
+	border: 1px solid #333;
+	margin-top: 1px;
+	-webkit-user-select: none;
+		-moz-user-select: none;
+		-ms-user-select: none;
+		-o-user-select: none;
+		user-select: none;
+}
+.trdd:hover{
+	width: 100%;
+
+	display: inline-block;
+	padding: 6px 12px;
+	color: #000;
+	margin-bottom: 0;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 1.428571429;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: middle;
+	cursor: pointer;
+	border: 1px solid #000;
+	margin-top: 1px;
+	-webkit-user-select: none;
+		-moz-user-select: none;
+		-ms-user-select: none;
+		-o-user-select: none;
+		user-select: none;
+}
+.green {
+	background-color: #2e164e;
+	color: #FFFFFF;
+}
+
+.green:hover {
+	background-color: #2e164e;
+	color: #FFFF;
+}
+
+.homeboxl {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	width: 100%;
+	padding: 20px;
+	margin-right: 20px;
+	margin-bottom: 0px;
+	background-color: #FFF;
+	height: 250px;
+    -webkit-box-shadow: 0px 0px 10px 3px #000;
+    -moz-box-shadow: 0px 0px 10px 3px #000;
+    box-shadow: 0px 0px 10px 0px #000;
+
+}
+.homeboxr {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	width: 100%;
+	padding: 20px;
+	margin-bottom: 0px;
+	background-color: #FFF;
+	height: 250px;
+    -webkit-box-shadow: 0px 0px 10px 3px #000;
+    -moz-box-shadow: 0px 0px 10px 3px #000;
+    box-shadow: 0px 0px 10px 0px #000;
+
+}
+.loginpadding{
+    -webkit-box-shadow: 0px 0px 10px 3px #000;
+    -moz-box-shadow: 0px 0px 10px 3px #000;
+    box-shadow: 0px 0px 10px 0px #000;
+
+}
+
+.hr #button {
+	width: 70px;
+}
+form .login {
+	font-size: 14px;
+	font-weight:bold;
+	padding: 3px;
+	margin: 2px;
+	border:solid 1px #ccc;
+	width: 200px;
+}
+form .login:hover {
+	font-size: 14px;
+	font-weight:bold;
+	padding: 3px;
+	border:solid 2px #FFCD00;
+	color:#000;
+}
+form .login:focus {
+	font-size: 14px;
+	font-weight:bold;
+	padding: 3px;
+	border:solid 2px #FFCD00;
+	color:#000;
+	width: 200px !important;
+}

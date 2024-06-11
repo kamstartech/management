@@ -1,0 +1,4 @@
+{
+ "Subject" : "Your application needs more information",
+ "Content" : "Dear %NAME%, \n We have received your application however we require more information. \n  The message from Academic office is: <b>%MESSAGE%</b>  \n\n Kind Regards, \n %INSTITUTION%"
+}

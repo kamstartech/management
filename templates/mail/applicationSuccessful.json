@@ -1,0 +1,4 @@
+{
+ "Subject" : "Application received",
+ "Content" : "Dear %NAME%, \n We have received your application. \n Please log in to https://portal.edenuniversity.net with your student number <b>%UID%</b> and password <b>%PASSWORD%</b> to edit your application or keep track of changes.  \n\n Kind Regards, \n %INSTITUTION%"
+}
